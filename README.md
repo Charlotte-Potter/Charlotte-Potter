@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Charlotte-Potter
 - 👀 I’m interested in ... Completing my PhD in psychologyy and neuroscience. I'm especially interested in how we engage with informaiton and what happens in our brains when we're curious. 
-- 🌱 I’m currently learning ... Python, R, PsychoPy. My uni reading focuses on reward learning, motivation, neural networks, programming and I'm gearing up to learn MatLab 
+- 🌱 I’m currently learning ... Python, R, PsychoPy. My uni reading focuses on reward learning, motivation, neural networks, programming and I'm gearing up to learn MatLab to analyse EEG data. 
 - 💞️ I’m looking to collaborate on ... learning PsychoPy, building neuroscience/psychology experiments, learning python. 
 - 📫 How to reach me ... via LinkedIn. 
 - 😄 Pronouns: ... She/Her
