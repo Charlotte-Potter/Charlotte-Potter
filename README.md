@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... learning PsychoPy, building neuroscience/psychology experiments, learning python. 
 - 📫 How to reach me ... via LinkedIn. 
 - 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... I love Taylor Swift (mightnights is my fav Era), I'm a big fan of banana bread and drinking flat whites whilst I learn! 
+- ⚡ Fun fact: ... In my spare time I'm learning how to powerlift. 
 
 <!---
 Charlotte-Potter/Charlotte-Potter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
